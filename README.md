@@ -7,3 +7,5 @@
 #now its a new dev
 #i solved a bug
 #now bug done
+#im working hard but suddenly
+# now all bugs are done fuck
