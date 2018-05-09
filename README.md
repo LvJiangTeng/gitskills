@@ -5,3 +5,5 @@
 #noe is feture
 #now its brand new
 #now its a new dev
+#im working hard but suddenly
+# now all bugs are done fuck
