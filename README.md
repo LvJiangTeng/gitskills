@@ -6,3 +6,4 @@
 #now its brand new
 #now its a new dev
 #i solved a bug
+#now bug done
