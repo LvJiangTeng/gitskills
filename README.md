@@ -7,3 +7,6 @@
 #now its a new dev
 #im working hard but suddenly
 # now all bugs are done fuck
+# what the fuck!!!
+
+
